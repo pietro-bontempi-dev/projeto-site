@@ -231,6 +231,7 @@ header a:hover{
 
 #contato{
     height: 1200px;
+    background: url(img/fundo-contato.jpg);
 }
 
 #caixa-contato{
